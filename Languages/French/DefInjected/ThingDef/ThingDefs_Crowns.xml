@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN：Byzantine Imperial Crown -->
+	<Canon_Crown_Byzantine.label>Couronne impériale byzantine</Canon_Crown_Byzantine.label>
+
+	<!-- EN：A crown of metal with an elaborate design, truly worthy of a successor to Rome! -->
+	<Canon_Crown_Byzantine.description>Une couronne de métal au design élaboré, vraiment digne d'un successeur de Rome !</Canon_Crown_Byzantine.description>
+
+
+	<!-- EN：Byzantine Imperial Crown (Stuffable) -->
+	<Canon_Crown_Byzantine_Stuffable.label>Couronne impériale byzantine (colorable)</Canon_Crown_Byzantine_Stuffable.label>
+
+	<!-- EN：A crown of metal with an elaborate design, truly worthy of a successor to Rome! -->
+	<Canon_Crown_Byzantine_Stuffable.description>Une couronne de métal au design élaboré, vraiment digne d'un successeur de Rome !</Canon_Crown_Byzantine_Stuffable.description>
+
+
+	<!-- EN：Emerald Crown -->
+	<Canon_Crown_Emerald.label>Couronne d'émeraude</Canon_Crown_Emerald.label>
+
+	<!-- EN：A crown of metal with an elaborate design, truly worthy of a successor to Rome! -->
+	<Canon_Crown_Emerald.description>Une couronne de métal au design élaboré, vraiment digne d'un successeur de Rome !</Canon_Crown_Emerald.description>
+
+
+	<!-- EN：Emerald Crown (Stuffable) -->
+	<Canon_Crown_Emerald_Stuffable.label>Couronne d'émeraude (colorable)</Canon_Crown_Emerald_Stuffable.label>
+
+	<!-- EN：A crown of metal with an elaborate design, truly worthy of a successor to Rome! -->
+	<Canon_Crown_Emerald_Stuffable.description>Une couronne de métal au design élaboré, vraiment digne d'un successeur de Rome !</Canon_Crown_Emerald_Stuffable.description>
+
+
+	<!-- EN：Holy Roman Reichskrone -->
+	<Canon_Crown_Reichskrone.label>Couronne du Saint-Empire</Canon_Crown_Reichskrone.label>
+
+	<!-- EN：A crown of metal with an extremely elaborate design. -->
+	<Canon_Crown_Reichskrone.description>Une couronne de métal au design extrêmement élaboré.</Canon_Crown_Reichskrone.description>
+
+
+	<!-- EN：Holy Roman Reichskrone (Stuffable) -->
+	<Canon_Crown_Reichskrone_Stuffable.label>Couronne du Saint-Empire (colorable)</Canon_Crown_Reichskrone_Stuffable.label>
+
+	<!-- EN：A crown of metal with an extremely elaborate design. -->
+	<Canon_Crown_Reichskrone_Stuffable.description>Une couronne de métal au design extrêmement élaboré.</Canon_Crown_Reichskrone_Stuffable.description>
+
+
+</LanguageData>

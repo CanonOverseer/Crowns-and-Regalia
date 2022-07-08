@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>	
+
+<Operation Class="PatchOperationFindMod">
+    <mods>
+        <li>Ideology</li>
+    </mods>
+	<match Class="PatchOperationSequence">
+		<operations>
+
+            <li Class="PatchOperationReplace"> 
+                <xpath>Defs/ThingDef[defName="Canon_Crown_Byzantine"]/recipeMaker/researchPrerequisite</xpath>
+                <value>
+                    <researchPrerequisite>RoyalApparel</researchPrerequisite>
+                </value>
+            </li>
+
+            <li Class="PatchOperationReplace"> 
+                <xpath>Defs/ThingDef[defName="Canon_Crown_Byzantine_Stuffable"]/recipeMaker/researchPrerequisite</xpath>
+                <value>
+                    <researchPrerequisite>RoyalApparel</researchPrerequisite>
+                </value>
+            </li>
+
+            <li Class="PatchOperationReplace"> 
+                <xpath>Defs/ThingDef[defName="Canon_Crown_Emerald"]/recipeMaker/researchPrerequisite</xpath>
+                <value>
+                    <researchPrerequisite>RoyalApparel</researchPrerequisite>
+                </value>
+            </li>
+
+            <li Class="PatchOperationReplace"> 
+                <xpath>Defs/ThingDef[defName="Canon_Crown_Emerald_Stuffable"]/recipeMaker/researchPrerequisite</xpath>
+                <value>
+                    <researchPrerequisite>RoyalApparel</researchPrerequisite>
+                </value>
+            </li>
+
+            <li Class="PatchOperationReplace"> 
+                <xpath>Defs/ThingDef[defName="Canon_Crown_Reichskrone"]/recipeMaker/researchPrerequisite</xpath>
+                <value>
+                    <researchPrerequisite>RoyalApparel</researchPrerequisite>
+                </value>
+            </li>
+
+
+            <li Class="PatchOperationReplace"> 
+                <xpath>Defs/ThingDef[defName="Canon_Crown_Reichskrone_Stuffable"]/recipeMaker/researchPrerequisite</xpath>
+                <value>
+                    <researchPrerequisite>RoyalApparel</researchPrerequisite>
+                </value>
+            </li>
+
+        </operations>
+    </match>
+</Operation>
+</Patch>	
