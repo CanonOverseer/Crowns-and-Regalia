@@ -43,7 +43,7 @@
     </statBases>
     <equippedStatOffsets>
       <SocialImpact>0.3</SocialImpact>
-      <SuppressionPower>0.15</SuppressionPower>
+      <SuppressionPower MayRequire="Ludeon.RimWorld.Ideology">0.15</SuppressionPower>
       <SlaveSuppressionOffset MayRequire="Ludeon.RimWorld.Ideology">-0.3</SlaveSuppressionOffset>
     </equippedStatOffsets>
     <apparel>
@@ -114,7 +114,7 @@
     </statBases>
     <equippedStatOffsets>
       <SocialImpact>0.3</SocialImpact>
-      <SuppressionPower>0.15</SuppressionPower>
+      <SuppressionPower MayRequire="Ludeon.RimWorld.Ideology">0.15</SuppressionPower>
       <SlaveSuppressionOffset MayRequire="Ludeon.RimWorld.Ideology">-0.3</SlaveSuppressionOffset>
     </equippedStatOffsets>
     <apparel>
@@ -180,7 +180,7 @@
     </statBases>
     <equippedStatOffsets>
       <SocialImpact>0.2</SocialImpact>
-      <SuppressionPower>0.1</SuppressionPower>
+      <SuppressionPower MayRequire="Ludeon.RimWorld.Ideology">0.1</SuppressionPower>
       <SlaveSuppressionOffset MayRequire="Ludeon.RimWorld.Ideology">-0.3</SlaveSuppressionOffset>
     </equippedStatOffsets>
     <apparel>
@@ -251,7 +251,7 @@
     </statBases>
     <equippedStatOffsets>
       <SocialImpact>0.2</SocialImpact>
-      <SuppressionPower>0.1</SuppressionPower>
+      <SuppressionPower MayRequire="Ludeon.RimWorld.Ideology">0.1</SuppressionPower>
       <SlaveSuppressionOffset MayRequire="Ludeon.RimWorld.Ideology">-0.3</SlaveSuppressionOffset>
     </equippedStatOffsets>
     <apparel>
@@ -331,7 +331,7 @@
     </statBases>
     <equippedStatOffsets>
       <SocialImpact>0.3</SocialImpact>
-      <SuppressionPower>0.15</SuppressionPower>
+      <SuppressionPower MayRequire="Ludeon.RimWorld.Ideology">0.15</SuppressionPower>
       <SlaveSuppressionOffset MayRequire="Ludeon.RimWorld.Ideology">-0.3</SlaveSuppressionOffset>
     </equippedStatOffsets>
     <apparel>
@@ -402,7 +402,7 @@
     </statBases>
     <equippedStatOffsets>
       <SocialImpact>0.3</SocialImpact>
-      <SuppressionPower>0.15</SuppressionPower>
+      <SuppressionPower MayRequire="Ludeon.RimWorld.Ideology">0.15</SuppressionPower>
       <SlaveSuppressionOffset MayRequire="Ludeon.RimWorld.Ideology">-0.3</SlaveSuppressionOffset>
     </equippedStatOffsets>
     <apparel>
