@@ -95,6 +95,8 @@
     <graphicData>
       <texPath>Apparel/Headgear/stuffablecrown1</texPath>
       <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <useWornGraphicMask>true</useWornGraphicMask>
       <drawSize>(0.9, 0.9)</drawSize>
     </graphicData>
     <costStuffCount>45</costStuffCount>
@@ -232,6 +234,8 @@
     <graphicData>
       <texPath>Apparel/Headgear/stuffablecrown2</texPath>
       <graphicClass>Graphic_Single</graphicClass>
+      <shaderType>CutoutComplex</shaderType>
+      <useWornGraphicMask>true</useWornGraphicMask>
       <drawSize>(0.9, 0.9)</drawSize>
     </graphicData>
     <costStuffCount>38</costStuffCount>
@@ -384,6 +388,8 @@
       <texPath>Apparel/Headgear/stuffablecrown3</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <drawSize>(0.9, 0.9)</drawSize>
+      <shaderType>CutoutComplex</shaderType>
+      <useWornGraphicMask>true</useWornGraphicMask>
     </graphicData>
     <costStuffCount>45</costStuffCount>
     <stuffCategories>
