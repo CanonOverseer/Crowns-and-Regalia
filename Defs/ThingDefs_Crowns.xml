@@ -69,6 +69,7 @@
     <label>Byzantine Imperial Crown (Stuffable)</label>
     <description>A crown of metal with an elaborate design, truly worthy of a successor to Rome!</description>
     <smeltable>true</smeltable>
+    <useWornGraphicMask>true</useWornGraphicMask>
     <thingCategories>
       <li>HeadgearNoble</li>
     </thingCategories>
@@ -96,7 +97,6 @@
       <texPath>Apparel/Headgear/stuffablecrown1</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <shaderType>CutoutComplex</shaderType>
-      <useWornGraphicMask>true</useWornGraphicMask>
       <drawSize>(0.9, 0.9)</drawSize>
     </graphicData>
     <costStuffCount>45</costStuffCount>
@@ -208,6 +208,7 @@
     <label>Emerald Crown (Stuffable)</label>
     <description>A crown of metal with an elaborate design, truly worthy of a successor to Rome!</description>
     <smeltable>true</smeltable>
+    <useWornGraphicMask>true</useWornGraphicMask>
     <thingCategories>
       <li>HeadgearNoble</li>
     </thingCategories>
@@ -235,7 +236,6 @@
       <texPath>Apparel/Headgear/stuffablecrown2</texPath>
       <graphicClass>Graphic_Single</graphicClass>
       <shaderType>CutoutComplex</shaderType>
-      <useWornGraphicMask>true</useWornGraphicMask>
       <drawSize>(0.9, 0.9)</drawSize>
     </graphicData>
     <costStuffCount>38</costStuffCount>
@@ -361,6 +361,7 @@
     <label>Holy Roman Reichskrone (Stuffable)</label>
     <description>A crown of metal with an extremely elaborate design.</description>
     <smeltable>true</smeltable>
+    <useWornGraphicMask>true</useWornGraphicMask>
     <thingCategories>
       <li>HeadgearNoble</li>
     </thingCategories>
@@ -387,9 +388,8 @@
     <graphicData>
       <texPath>Apparel/Headgear/stuffablecrown3</texPath>
       <graphicClass>Graphic_Single</graphicClass>
-      <drawSize>(0.9, 0.9)</drawSize>
       <shaderType>CutoutComplex</shaderType>
-      <useWornGraphicMask>true</useWornGraphicMask>
+      <drawSize>(0.9, 0.9)</drawSize>
     </graphicData>
     <costStuffCount>45</costStuffCount>
     <stuffCategories>
