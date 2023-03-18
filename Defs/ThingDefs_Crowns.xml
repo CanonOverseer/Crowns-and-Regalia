@@ -36,7 +36,7 @@
       <Cloth>30</Cloth>
     </costList>
     <statBases>
-      <MaxHitPoints>80</MaxHitPoints>
+      <MaxHitPoints>1000</MaxHitPoints>
       <WorkToMake> 24000</WorkToMake>
       <Mass>0.9</Mass>
       <EquipDelay>0.8</EquipDelay>
@@ -58,6 +58,8 @@
       </layers>
       <tags>
         <li>Royal</li>
+        <li>RoyalTier5</li>
+        <li>RoyalTier6</li>
         <li>RoyalTier7</li>
       </tags>
       <canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>
@@ -108,7 +110,7 @@
       <Cloth>30</Cloth>
     </costList>
     <statBases>
-      <MaxHitPoints>80</MaxHitPoints>
+      <MaxHitPoints>1000</MaxHitPoints>
       <WorkToMake> 24000</WorkToMake>
       <Mass>0.9</Mass>
       <EquipDelay>0.8</EquipDelay>
@@ -130,6 +132,8 @@
       </layers>
       <tags>
         <li>Royal</li>
+        <li>RoyalTier5</li>
+        <li>RoyalTier6</li>
         <li>RoyalTier7</li>
       </tags>
       <canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>
@@ -175,7 +179,7 @@
       <Cloth>30</Cloth>
     </costList>
     <statBases>
-      <MaxHitPoints>80</MaxHitPoints>
+      <MaxHitPoints>1000</MaxHitPoints>
       <WorkToMake> 24000</WorkToMake>
       <Mass>0.9</Mass>
       <EquipDelay>0.8</EquipDelay>
@@ -197,7 +201,10 @@
       </layers>
       <tags>
         <li>Royal</li>
+        <li>RoyalTier3</li>
+        <li>RoyalTier5</li>
         <li>RoyalTier6</li>
+        <li>RoyalTier7</li>
       </tags>
       <canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>
     </apparel>
@@ -247,7 +254,7 @@
       <Cloth>30</Cloth>
     </costList>
     <statBases>
-      <MaxHitPoints>80</MaxHitPoints>
+      <MaxHitPoints>1000</MaxHitPoints>
       <WorkToMake> 24000</WorkToMake>
       <Mass>0.9</Mass>
       <EquipDelay>0.8</EquipDelay>
@@ -269,7 +276,10 @@
       </layers>
       <tags>
         <li>Royal</li>
+        <li>RoyalTier3</li>
+        <li>RoyalTier5</li>
         <li>RoyalTier6</li>
+        <li>RoyalTier7</li>
       </tags>
       <canBeGeneratedToSatisfyWarmth>false</canBeGeneratedToSatisfyWarmth>
       <useWornGraphicMask>true</useWornGraphicMask>
@@ -328,7 +338,7 @@
       <Cloth>30</Cloth>
     </costList>
     <statBases>
-      <MaxHitPoints>80</MaxHitPoints>
+      <MaxHitPoints>1000</MaxHitPoints>
       <WorkToMake> 24000</WorkToMake>
       <Mass>0.9</Mass>
       <EquipDelay>0.8</EquipDelay>
@@ -400,7 +410,7 @@
       <Cloth>30</Cloth>
     </costList>
     <statBases>
-      <MaxHitPoints>80</MaxHitPoints>
+      <MaxHitPoints>1000</MaxHitPoints>
       <WorkToMake> 24000</WorkToMake>
       <Mass>0.9</Mass>
       <EquipDelay>0.8</EquipDelay>
